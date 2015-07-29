@@ -1,0 +1,17 @@
+{
+  "name": "heroku_quickfire_challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "author": "Maria Stommes",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.5",
+    "express": "^4.13.1",
+    "path": "^0.11.14"
+  }
+}
